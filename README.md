@@ -1,6 +1,6 @@
 ## Real Time Bixi Stations in Montreal
 
-<img src="https://github.com/danvargg/r-next-word/blob/main/images/next_word.PNG">
+<img src="https://github.com/danvargg/r-bixi-mtl/blob/main/images/Bixi.PNG">
 
 This application visualizes Montreal's bike sharing system in real time. It refreshes the data every `60 seconds` and displays:
 
